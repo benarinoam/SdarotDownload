@@ -10,7 +10,9 @@ When video controllers enable it will show a Download button for the video.
 3. Drag and drop The Folder **Sdarot** and all its content to the Chrome Tab **chrome://extensions/ **
 4. Go To https://sdarot.world and open the video you want to download.
 
-https://github.com/benarinoam/SdarotDownload/VideoPanel.PNG
+
+        SdarotDownload/VideoPanel.PNG
+      
 
 5. Click the Extension button near the Address bar on the Chrome browser.
 6. Click **Show** 
